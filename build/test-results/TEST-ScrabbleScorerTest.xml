@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ScrabbleScorerTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2016-09-07T17:31:00" hostname="epicodus-14.local" time="0.002">
+  <properties/>
+  <testcase name="calculateScore_returnsScoreForFivePoint_6" classname="ScrabbleScorerTest" time="0.001"/>
+  <testcase name="calculateScore_returnsScoreForTenPoint_8" classname="ScrabbleScorerTest" time="0.0"/>
+  <testcase name="calculateScore_returnsScoreForSingleLetter_1" classname="ScrabbleScorerTest" time="0.0"/>
+  <testcase name="calculateScore_returnsScoreForDoublePoint_3" classname="ScrabbleScorerTest" time="0.0"/>
+  <testcase name="calculateScore_returnsScoreForQuadPoint_5" classname="ScrabbleScorerTest" time="0.0"/>
+  <testcase name="calculateScore_returnsScoreForEightPoint_7" classname="ScrabbleScorerTest" time="0.0"/>
+  <testcase name="calculateScore_returnsScoreForTriplePoint_4" classname="ScrabbleScorerTest" time="0.0"/>
+  <testcase name="calculateScore_returnsScoreForSinglePoint_2" classname="ScrabbleScorerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
